@@ -18,4 +18,4 @@ flutter:
         package: appmire.be.flutterjailbreakdetection
         pluginClass: FlutterJailbreakDetectionPlugin
       ios:
-        pluginClass: FlutterJailbreakDetectionPlugin
+        pluginClass: SwiftFlutterJailbreakDetectionPlugin
